@@ -11,6 +11,9 @@ This project consists a copy of the Mint Sign in page including Forms.
 
 HTML, CSS
 
+## Live Demo
+
+[Live demo link](https://mikethreels.github.io/Mint-assignment/)
 
 
 # Authors
